@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tianux/catkin_ws/install/setup.sh
